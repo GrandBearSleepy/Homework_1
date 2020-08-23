@@ -49,7 +49,7 @@ section {
   overflow: auto;
   clear: both;
   background-color: #394549;
-margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 #division {
@@ -63,6 +63,7 @@ aside {
   float: left;
   margin: 10px 20px 10px 20px;
   padding: 20px;
+  width: 30%;
   height: 180px;
   border: 1px solid white;
 }
